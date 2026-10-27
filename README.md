@@ -48,6 +48,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Agora](https://agorareal.com/)** | Capital raising, investor portals, syndication workflows, and deal management. | $749/mo (Starter), $1,249/mo (Growth) | 14-day Free Trial (Max 50 investors, full features) | Early-Stage / Unknown |
 | **[InvestNext](https://www.investnext.com/)** | Capital raising, investor portals, syndication workflows, and deal management. | $499/mo (Core), $899/mo (Pro), Custom (Enterprise) | N/A (No free tier) | Early-Stage / Unknown |
 | **[Groundbreaker](https://www.groundbreaker.co/)** | Capital raising, investor portals, syndication workflows, and deal management. | Starts at $300/mo (Billed annually), Demo Required | N/A (No free tier) | Early-Stage / Unknown |
+| **[CRE Assets](https://creassets.com/)** | Software for commercial real estate sponsors: deals, investor CRM, subscriptions with e-signature, branded investor portal, waterfalls and distributions, deal-level books and property management on one record. (Disclosure: contributed by its maker.) | $299/mo flat for all modules once investor money is collected; no per-seat, per-investor or AUM fees; month-to-month ([pricing](https://creassets.com/pricing)) | Free Start plan ($0, no credit card; AI features not included); no free trial | Early-Stage / Unknown |
 
 ## 🔓 Open-Source GitHub Projects
 
